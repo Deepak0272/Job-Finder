@@ -1,0 +1,611 @@
+{
+  "users": [
+    {
+      "_id": "deepak_admin_mvi0o4u2",
+      "id": "deepak_admin_mvi0o4u2",
+      "name": "Deepak Sahani",
+      "email": "deepak@jobfinder.ai",
+      "password": "$2b$10$9LWjDRrDWBoskLlXhKwhNesk1ftbsPytj8F5S1oiTBHq18z/wc1Ky",
+      "role": "admin",
+      "profile": {
+        "headline": "Lead System Administrator & Engineer",
+        "bio": "Platform owner and administrator for AI Job Finder.",
+        "phone": "+1 (555) 890-1234",
+        "skills": [
+          "Computer Networking",
+          "CCNA",
+          "Linux",
+          "Cyber Security",
+          "System Administration",
+          "Software Development",
+          "Docker",
+          "Cloud / DevOps"
+        ],
+        "preferredLocation": "Remote",
+        "preferredJobTypes": [
+          "Full-time"
+        ]
+      },
+      "createdAt": "2026-10-21T11:16:19.706Z",
+      "updatedAt": "2026-10-21T11:16:19.707Z"
+    },
+    {
+      "_id": "nfrzezsamvhzhvjv",
+      "id": "nfrzezsamvhzhvjv",
+      "name": "System Administrator",
+      "email": "admin@jobfinder.ai",
+      "password": "$2b$10$InBvoFwxMMG/mcOzlTFctO8bnvg9zjRUTOrPN9dW4ADB4UrOjHKeW",
+      "role": "admin",
+      "profile": {
+        "headline": "Lead Platform Administrator",
+        "bio": "Supervising platform health, job curation, and user safety on AI Job Finder.",
+        "phone": "+1 (555) 019-2831",
+        "skills": [
+          "System Administration",
+          "Network Security",
+          "Active Directory",
+          "Cloud Management"
+        ],
+        "preferredLocation": "San Francisco, CA"
+      },
+      "createdAt": "2026-10-21T10:43:28.123Z",
+      "updatedAt": "2026-10-21T10:43:28.123Z"
+    },
+    {
+      "_id": "5fa1xdg1mvhzhvng",
+      "id": "5fa1xdg1mvhzhvng",
+      "name": "Alex Rivera",
+      "email": "seeker@jobfinder.ai",
+      "password": "$2b$10$HOq726.xYlzT4tAJM5sDU.1PGEe6ms9xK9EKrRa41XaEN.JJoK3zq",
+      "role": "admin",
+      "profile": {
+        "headline": "IT Support Specialist & Aspiring Network Engineer",
+        "bio": "Dedicated IT professional with solid foundations in networking, desktop systems, and troubleshooting. Passionate about maintaining secure and reliable infrastructure.",
+        "phone": "+1 (555) 342-8901",
+        "skills": [
+          "Computer Networking",
+          "CCNA",
+          "Linux",
+          "Desktop Support",
+          "Active Directory",
+          "TCP/IP",
+          "Windows Server",
+          "Troubleshooting",
+          "Office 365"
+        ],
+        "preferredLocation": "Dallas, TX",
+        "preferredJobTypes": [
+          "Full-time",
+          "Contract"
+        ],
+        "education": [
+          {
+            "school": "State Institute of Technology",
+            "degree": "Bachelor of Science",
+            "fieldOfStudy": "Computer Networks & Systems",
+            "startYear": "2020",
+            "endYear": "2024"
+          }
+        ],
+        "experience": [
+          {
+            "title": "Junior Desktop Support Technician",
+            "company": "TechServe Solutions",
+            "location": "Dallas, TX",
+            "startDate": "2024-01",
+            "endDate": "Present",
+            "current": true,
+            "description": "Provide daily Tier 1-2 desktop support, configure workstation images, manage user accounts in Active Directory, and resolve network connectivity issues."
+          }
+        ]
+      },
+      "createdAt": "2026-10-21T10:43:28.252Z",
+      "updatedAt": "2026-10-21T10:43:28.252Z"
+    }
+  ],
+  "jobs": [
+    {
+      "_id": "puc1qnhqmvhzhvru",
+      "id": "puc1qnhqmvhzhvru",
+      "title": "Senior Desktop Support Specialist",
+      "company": "Apex Global Solutions",
+      "companyLogo": "https://images.unsplash.com/photo-1549923746-c502d488b3ea?w=128&auto=format&fit=crop&q=80",
+      "location": "New York, NY",
+      "remoteType": "Hybrid",
+      "category": "IT Support",
+      "jobType": "Full-time",
+      "experienceLevel": "Mid Level",
+      "salaryMin": 68000,
+      "salaryMax": 85000,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly",
+      "description": "We are seeking an experienced Desktop Support Specialist to provide technical assistance, hardware deployment, and OS troubleshooting across our enterprise infrastructure.",
+      "responsibilities": [
+        "Manage enterprise hardware deployment, imaging, and workstation lifecycle",
+        "Provide Tier 2 and Tier 3 desktop support for Windows 11, macOS, and Linux systems",
+        "Administer Microsoft Active Directory, Azure AD, and Office 365 environments",
+        "Diagnose printer, peripheral, and local network connectivity issues"
+      ],
+      "requirements": [
+        "3+ years in enterprise desktop or technical support",
+        "Proficiency with Windows Server, Active Directory, and Group Policy",
+        "Experience with ServiceNow or Jira ticketing tools",
+        "CompTIA A+ or Network+ certification preferred"
+      ],
+      "skillsRequired": [
+        "Desktop Support",
+        "Active Directory",
+        "Windows Server",
+        "Office 365",
+        "Troubleshooting",
+        "Hardware Troubleshooting"
+      ],
+      "applicationUrl": "https://careers.google.com/jobs/results/",
+      "source": "Verified Platform Direct",
+      "isFeatured": true,
+      "createdBy": "nfrzezsamvhzhvjv",
+      "createdAt": "2026-10-21T10:43:28.410Z",
+      "updatedAt": "2026-10-21T10:43:28.410Z"
+    },
+    {
+      "_id": "4hqobzdhmvhzhvru",
+      "id": "4hqobzdhmvhzhvru",
+      "title": "IT Support Specialist (Tier 2)",
+      "company": "CareCloud Systems",
+      "companyLogo": "https://images.unsplash.com/photo-1572021335469-31706a17aaef?w=128&auto=format&fit=crop&q=80",
+      "location": "Austin, TX",
+      "remoteType": "On-site",
+      "category": "IT Support",
+      "jobType": "Full-time",
+      "experienceLevel": "Entry Level",
+      "salaryMin": 55000,
+      "salaryMax": 68000,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly",
+      "description": "Join our frontline customer IT team delivering exceptional technical support, endpoint management, and troubleshooting for enterprise healthcare clients.",
+      "responsibilities": [
+        "Resolve end-user technical inquiries via ticketing, phone, and remote assistance",
+        "Install and configure network printers, VoIP phones, and desktop peripherals",
+        "Maintain software licenses and equipment inventories"
+      ],
+      "requirements": [
+        "1+ years technical support or help desk experience",
+        "Demonstrated diagnostic skills in Windows and basic Linux environments",
+        "Outstanding customer-facing verbal and written communication"
+      ],
+      "skillsRequired": [
+        "Desktop Support",
+        "IT Support",
+        "Help Desk",
+        "Remote Desktop",
+        "Linux",
+        "Troubleshooting"
+      ],
+      "applicationUrl": "https://www.indeed.com/q-IT-Support-jobs.html",
+      "source": "Indeed Verified",
+      "isFeatured": false,
+      "createdBy": "nfrzezsamvhzhvjv",
+      "createdAt": "2026-10-21T10:43:28.410Z",
+      "updatedAt": "2026-10-21T10:43:28.410Z"
+    },
+    {
+      "_id": "au1mpwbzmvhzhvrw",
+      "id": "au1mpwbzmvhzhvrw",
+      "title": "Network Engineer (CCNA / Routing & Switching)",
+      "company": "Cisco Systems Partner Network",
+      "companyLogo": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=128&auto=format&fit=crop&q=80",
+      "location": "Dallas, TX",
+      "remoteType": "Hybrid",
+      "category": "Network Engineer",
+      "jobType": "Full-time",
+      "experienceLevel": "Mid Level",
+      "salaryMin": 85000,
+      "salaryMax": 110000,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly",
+      "description": "Looking for a skilled Network Engineer to architect, maintain, and secure complex multi-site enterprise networks utilizing Cisco routers, switches, and firewalls.",
+      "responsibilities": [
+        "Design, configure, and troubleshoot Cisco Catalyst switches, ISR routers, and ASA firewalls",
+        "Manage routing protocols including BGP, OSPF, and EIGRP across redundant topologies",
+        "Monitor network bandwidth, latency, and packet loss using Wireshark and SolarWinds",
+        "Maintain site-to-site IPsec VPN tunnels and client SSL VPN connections"
+      ],
+      "requirements": [
+        "Active CCNA certification required (CCNP is a plus)",
+        "Hands-on expertise with TCP/IP, VLAN segmentation, and subnetting",
+        "Proficiency in Linux network configuration and command line utilities"
+      ],
+      "skillsRequired": [
+        "CCNA",
+        "Computer Networking",
+        "Cisco",
+        "Routing & Switching",
+        "Linux",
+        "TCP/IP",
+        "VPN",
+        "Firewalls"
+      ],
+      "applicationUrl": "https://jobs.cisco.com/",
+      "source": "Cisco Career Portal",
+      "isFeatured": true,
+      "createdBy": "nfrzezsamvhzhvjv",
+      "createdAt": "2026-10-21T10:43:28.412Z",
+      "updatedAt": "2026-10-21T10:43:28.412Z"
+    },
+    {
+      "_id": "1ors3t8mmvhzhvrx",
+      "id": "1ors3t8mmvhzhvrx",
+      "title": "Junior Network Operations Specialist",
+      "company": "Cloudflare Connectivity Group",
+      "companyLogo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=128&auto=format&fit=crop&q=80",
+      "location": "San Jose, CA",
+      "remoteType": "Remote",
+      "category": "Network Engineer",
+      "jobType": "Full-time",
+      "experienceLevel": "Entry Level",
+      "salaryMin": 72000,
+      "salaryMax": 88000,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly",
+      "description": "Great opportunity for aspiring networking professionals to join a 24/7 Network Operations Center (NOC) monitoring edge infrastructure and routing anomalies.",
+      "responsibilities": [
+        "Monitor real-time network alerts, packet drops, and carrier link outages",
+        "Triage routing issues using traceroute, ping, and DNS query analysis",
+        "Coordinate with telecommunications carriers for circuit diagnostics and dispatch"
+      ],
+      "requirements": [
+        "Understanding of OSI 7-layer model, TCP/IP, DNS, and DHCP fundamentals",
+        "Exposure to Linux environments and terminal networking commands",
+        "CCNA study or certification in progress"
+      ],
+      "skillsRequired": [
+        "Computer Networking",
+        "CCNA",
+        "DNS",
+        "DHCP",
+        "TCP/IP",
+        "Linux",
+        "Network Troubleshooting"
+      ],
+      "applicationUrl": "https://www.cloudflare.com/careers/jobs/",
+      "source": "Platform Direct",
+      "isFeatured": false,
+      "createdBy": "nfrzezsamvhzhvjv",
+      "createdAt": "2026-10-21T10:43:28.413Z",
+      "updatedAt": "2026-10-21T10:43:28.413Z"
+    },
+    {
+      "_id": "uy4eo0l3mvhzhvry",
+      "id": "uy4eo0l3mvhzhvry",
+      "title": "SOC Security Analyst (Tier 1 / Incident Response)",
+      "company": "CyberShield Defense Labs",
+      "companyLogo": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=128&auto=format&fit=crop&q=80",
+      "location": "Washington, DC",
+      "remoteType": "Hybrid",
+      "category": "Cyber Security",
+      "jobType": "Full-time",
+      "experienceLevel": "Entry Level",
+      "salaryMin": 75000,
+      "salaryMax": 92000,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly",
+      "description": "Join our Security Operations Center to detect, analyze, and mitigate cyber security threats, malware infections, and suspicious network activity.",
+      "responsibilities": [
+        "Monitor SIEM alerts (Splunk / Sentinel) and triage security telemetry",
+        "Investigate phishing submissions, malware payloads, and endpoint detections",
+        "Perform initial containment actions and write incident escalation reports"
+      ],
+      "requirements": [
+        "Familiarity with network protocols, packet inspection, and attack vectors",
+        "CompTIA Security+, CySA+, or CEH certification",
+        "Understanding of MITRE ATT&CK framework and Linux security logs"
+      ],
+      "skillsRequired": [
+        "Cyber Security",
+        "SIEM",
+        "SOC",
+        "Incident Response",
+        "CompTIA Security+",
+        "Linux",
+        "Computer Networking"
+      ],
+      "applicationUrl": "https://www.linkedin.com/jobs/cyber-security-jobs/",
+      "source": "LinkedIn Talent",
+      "isFeatured": true,
+      "createdBy": "nfrzezsamvhzhvjv",
+      "createdAt": "2026-10-21T10:43:28.414Z",
+      "updatedAt": "2026-10-21T10:43:28.414Z"
+    },
+    {
+      "_id": "lqo2pgrgmvhzhvrz",
+      "id": "lqo2pgrgmvhzhvrz",
+      "title": "Information Security Engineer",
+      "company": "Fortress Security Labs",
+      "companyLogo": "https://images.unsplash.com/photo-1510511459019-5dda7724fd87?w=128&auto=format&fit=crop&q=80",
+      "location": "Boston, MA",
+      "remoteType": "Remote",
+      "category": "Cyber Security",
+      "jobType": "Full-time",
+      "experienceLevel": "Mid Level",
+      "salaryMin": 115000,
+      "salaryMax": 145000,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly",
+      "description": "Lead vulnerability assessments, cloud perimeter defense, and zero-trust policy enforcement across hybrid enterprise networks.",
+      "responsibilities": [
+        "Deploy and tune next-generation firewalls (Palo Alto, Fortinet)",
+        "Conduct regular vulnerability scanning and penetration test simulations",
+        "Implement Identity & Access Management (IAM) and multi-factor security policies"
+      ],
+      "requirements": [
+        "3+ years practical cyber security engineering experience",
+        "Solid command of Linux internals, script automation (Python/Bash)",
+        "CISSP or CEH credential"
+      ],
+      "skillsRequired": [
+        "Cyber Security",
+        "Penetration Testing",
+        "Firewalls",
+        "Vulnerability Assessment",
+        "Python",
+        "Linux",
+        "AWS"
+      ],
+      "applicationUrl": "https://careers.microsoft.com/",
+      "source": "Direct Partner",
+      "isFeatured": false,
+      "createdBy": "nfrzezsamvhzhvjv",
+      "createdAt": "2026-10-21T10:43:28.415Z",
+      "updatedAt": "2026-10-21T10:43:28.415Z"
+    },
+    {
+      "_id": "zdxnhstpmvhzhvs0",
+      "id": "zdxnhstpmvhzhvs0",
+      "title": "Full-Stack JavaScript / React Engineer",
+      "company": "NexGen Web Platforms",
+      "companyLogo": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=128&auto=format&fit=crop&q=80",
+      "location": "San Francisco, CA",
+      "remoteType": "Remote",
+      "category": "Software Developer",
+      "jobType": "Full-time",
+      "experienceLevel": "Mid Level",
+      "salaryMin": 105000,
+      "salaryMax": 135000,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly",
+      "description": "Build modern, responsive, high-scale web applications using React, Node.js, Tailwind CSS, and RESTful microservices.",
+      "responsibilities": [
+        "Develop modular and reusable React components with clean state management",
+        "Build scalable backend REST APIs in Node.js and Express",
+        "Optimize database queries and ensure high Lighthouse performance benchmarks"
+      ],
+      "requirements": [
+        "Strong proficiency in JavaScript (ES6+), React, and Node.js",
+        "Experience with modern styling tools such as Tailwind CSS",
+        "Familiarity with Git, automated testing, and CI/CD pipelines"
+      ],
+      "skillsRequired": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express",
+        "Tailwind CSS",
+        "REST APIs",
+        "Git",
+        "MongoDB"
+      ],
+      "applicationUrl": "https://jobs.github.com/",
+      "source": "GitHub Careers",
+      "isFeatured": true,
+      "createdBy": "nfrzezsamvhzhvjv",
+      "createdAt": "2026-10-21T10:43:28.416Z",
+      "updatedAt": "2026-10-21T10:43:28.416Z"
+    },
+    {
+      "_id": "7ocwfgfmmvhzhvs1",
+      "id": "7ocwfgfmmvhzhvs1",
+      "title": "Junior Frontend Developer (React & UI/UX)",
+      "company": "DesignFlow Creative Studio",
+      "companyLogo": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=128&auto=format&fit=crop&q=80",
+      "location": "Seattle, WA",
+      "remoteType": "Hybrid",
+      "category": "Software Developer",
+      "jobType": "Full-time",
+      "experienceLevel": "Entry Level",
+      "salaryMin": 65000,
+      "salaryMax": 82000,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly",
+      "description": "Exciting entry role for creative developers eager to craft fluid web interfaces and interactive client dashboards.",
+      "responsibilities": [
+        "Translate Figma design mockups into pixel-perfect responsive HTML/CSS/React code",
+        "Consume backend REST APIs and implement intuitive form validations",
+        "Collaborate with product designers on accessibility (a11y) standards"
+      ],
+      "requirements": [
+        "Solid command of HTML5, CSS3, JavaScript, and React",
+        "Passion for clean design and mobile-first responsiveness",
+        "Portfolio or GitHub repositories demonstrating frontend projects"
+      ],
+      "skillsRequired": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Tailwind CSS",
+        "Git",
+        "REST APIs"
+      ],
+      "applicationUrl": "https://angel.co/jobs",
+      "source": "Wellfound / AngelList",
+      "isFeatured": false,
+      "createdBy": "nfrzezsamvhzhvjv",
+      "createdAt": "2026-10-21T10:43:28.417Z",
+      "updatedAt": "2026-10-21T10:43:28.417Z"
+    },
+    {
+      "_id": "oxxsftokmvhzhvs2",
+      "id": "oxxsftokmvhzhvs2",
+      "title": "Backend API Engineer (Python & FastAPI)",
+      "company": "DataVessel Labs",
+      "companyLogo": "https://images.unsplash.com/photo-1534972195531-a756b1126f24?w=128&auto=format&fit=crop&q=80",
+      "location": "Denver, CO",
+      "remoteType": "Remote",
+      "category": "Software Developer",
+      "jobType": "Full-time",
+      "experienceLevel": "Mid Level",
+      "salaryMin": 98000,
+      "salaryMax": 125000,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly",
+      "description": "Architect resilient data streaming services and high-throughput RESTful endpoints using Python, PostgreSQL, and Docker.",
+      "responsibilities": [
+        "Build asynchronous API microservices with Python and FastAPI",
+        "Integrate machine learning inference pipelines and OpenAI models",
+        "Implement Redis caching and database indexing optimizations"
+      ],
+      "requirements": [
+        "2+ years Python backend development",
+        "Knowledge of SQL, Docker, and API security (JWT / OAuth2)"
+      ],
+      "skillsRequired": [
+        "Python",
+        "SQL",
+        "PostgreSQL",
+        "Docker",
+        "REST APIs",
+        "Git",
+        "Linux"
+      ],
+      "applicationUrl": "https://remotive.com/",
+      "source": "Remotive API (Verified)",
+      "isFeatured": false,
+      "createdBy": "nfrzezsamvhzhvjv",
+      "createdAt": "2026-10-21T10:43:28.418Z",
+      "updatedAt": "2026-10-21T10:43:28.418Z"
+    },
+    {
+      "_id": "gbpa929bmvhzhvs3",
+      "id": "gbpa929bmvhzhvs3",
+      "title": "Data Analyst (SQL, Python & Power BI)",
+      "company": "MetricPulse Analytics",
+      "companyLogo": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=128&auto=format&fit=crop&q=80",
+      "location": "Chicago, IL",
+      "remoteType": "Hybrid",
+      "category": "Data Analyst",
+      "jobType": "Full-time",
+      "experienceLevel": "Entry Level",
+      "salaryMin": 68000,
+      "salaryMax": 86000,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly",
+      "description": "Transform complex business datasets into intuitive dashboards, predictive indicators, and executive summaries.",
+      "responsibilities": [
+        "Write complex SQL queries, window functions, and views across relational warehouses",
+        "Design interactive Power BI and Tableau dashboards for cross-departmental stakeholders",
+        "Perform exploratory data analysis using Python (Pandas, NumPy)"
+      ],
+      "requirements": [
+        "Strong command of SQL data aggregation and schema design",
+        "Proficiency in data visualization tools (Power BI, Tableau, or Excel Pivot)",
+        "Degree in Computer Science, Statistics, Mathematics, or related experience"
+      ],
+      "skillsRequired": [
+        "SQL",
+        "Data Analysis",
+        "Power BI",
+        "Tableau",
+        "Python",
+        "Pandas",
+        "Excel"
+      ],
+      "applicationUrl": "https://www.kaggle.com/jobs",
+      "source": "Verified Platform Direct",
+      "isFeatured": true,
+      "createdBy": "nfrzezsamvhzhvjv",
+      "createdAt": "2026-10-21T10:43:28.419Z",
+      "updatedAt": "2026-10-21T10:43:28.419Z"
+    },
+    {
+      "_id": "rd9s079ymvhzhvs4",
+      "id": "rd9s079ymvhzhvs4",
+      "title": "Cloud Support & Infrastructure Engineer (AWS)",
+      "company": "CloudScale Technologies",
+      "companyLogo": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=128&auto=format&fit=crop&q=80",
+      "location": "Atlanta, GA",
+      "remoteType": "Remote",
+      "category": "Cloud / DevOps",
+      "jobType": "Full-time",
+      "experienceLevel": "Mid Level",
+      "salaryMin": 90000,
+      "salaryMax": 118000,
+      "salaryCurrency": "USD",
+      "salaryPeriod": "yearly",
+      "description": "Provide operational support, infrastructure automation, and container orchestration across Amazon Web Services environments.",
+      "responsibilities": [
+        "Maintain AWS EC2 instances, VPC peering, Route 53, and S3 storage policies",
+        "Support Docker container builds and CI/CD pipelines",
+        "Diagnose Linux server performance bottlenecks, memory leaks, and disk I/O"
+      ],
+      "requirements": [
+        "2+ years supporting cloud workloads on AWS or Azure",
+        "Strong Linux shell scripting (Bash/Python)",
+        "AWS Certified Solutions Architect or Cloud Practitioner"
+      ],
+      "skillsRequired": [
+        "AWS",
+        "Linux",
+        "Docker",
+        "Computer Networking",
+        "Bash",
+        "CI/CD",
+        "Troubleshooting"
+      ],
+      "applicationUrl": "https://aws.amazon.com/careers/",
+      "source": "AWS Careers",
+      "isFeatured": false,
+      "createdBy": "nfrzezsamvhzhvjv",
+      "createdAt": "2026-10-21T10:43:28.420Z",
+      "updatedAt": "2026-10-21T10:43:28.420Z"
+    }
+  ],
+  "savedjobs": [
+    {
+      "_id": "hynkzopfmvhzhvs5",
+      "id": "hynkzopfmvhzhvs5",
+      "user": "5fa1xdg1mvhzhvng",
+      "job": "au1mpwbzmvhzhvrw",
+      "createdAt": "2026-10-21T10:43:28.421Z",
+      "updatedAt": "2026-10-21T10:43:28.421Z"
+    }
+  ],
+  "applications": [
+    {
+      "_id": "oto0b4e0mvhzhvs7",
+      "id": "oto0b4e0mvhzhvs7",
+      "user": "5fa1xdg1mvhzhvng",
+      "job": "puc1qnhqmvhzhvru",
+      "jobTitle": "Senior Desktop Support Specialist",
+      "companyName": "Apex Global Solutions",
+      "location": "New York, NY",
+      "applicationUrl": "https://careers.google.com/jobs/results/",
+      "status": "Applied",
+      "notes": "Submitted resume highlighting CCNA coursework and desktop support experience.",
+      "applicationDate": "2026-10-18T10:43:28.423Z",
+      "timeline": [
+        {
+          "status": "Interested",
+          "date": "2026-10-16T10:43:28.423Z",
+          "note": "Discovered opening on AI Job Finder platform."
+        },
+        {
+          "status": "Applied",
+          "date": "2026-10-18T10:43:28.423Z",
+          "note": "Submitted application on company portal."
+        }
+      ],
+      "createdAt": "2026-10-21T10:43:28.423Z",
+      "updatedAt": "2026-10-21T10:43:28.423Z"
+    }
+  ]
+}
